@@ -8,8 +8,8 @@
 # Site Settings
 title                    : "Tianzhuo Yang"
 description              : "I am a PhD student studying in Yuanpei College, Peking University. My research interests include alignment (especially value alignment) and natural language processing."
-repository               : "RayeRen/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
+repository               : "tandrewyang/tandrewyang.github.io"
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Tianzhuo Yang"
-  avatar           : "images\头像.png"
+  avatar           : "images/头像.png"
   bio              : "Peking University"
   location         : "Beijing, China"
   employer         :
