@@ -29,7 +29,7 @@ I am a science student who loves Chinese, its music, its silences, and the way a
 
 There are more things in intelligence than our present theories can name. So I want to do research I love, and research that is worth loving: to take arms against confusion, to seek value amid uncertainty, and to use the rough magic of machines gently, so that the work may leave the world a little safer, clearer, and kinder.
 
-愿我像那个渡河的人，在长夜与激流之间，肩上仍负着沉重而明亮的孩子，一步一步走向彼岸。若我在疲惫中问：你是谁？愿答案在心里响起：你是将要重新诞生的明日。于是我也愿为新的战斗再生，在下一道晨光里继续做自己相信的研究，带着爱、自由、价值与不屈的灵魂，向前。
+I often, almost naively, imagine myself as the one crossing the river: between the long night and the rushing current, carrying on my shoulders a child both heavy and bright, step by step toward the farther shore. When I am tired and ask, "Who are you?", I hope the answer rises within me: the tomorrow that will be born again. So I keep being reborn for the next battle, walking into the next morning to do the research I believe in, with love, freedom, value, and an unyielding soul.
 
 # 🔥 News
 - *2026.06*: Our paper A Game-Theoretic Negotiation Framework for Cross-Cultural Consensus in LLMs was selected as an ACL 2026 Main Conference Oral Presentation.
