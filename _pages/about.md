@@ -17,11 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student at Yuanpei College, Peking University. My research interests include AI alignment, value alignment, reinforcement learning, and natural language processing.
+I am an undergraduate student at Yuanpei College, Peking University. My research interests include AI alignment, value alignment, agent safety, reinforcement learning, and natural language processing.
 
 I work with the PKU Alignment Group on building safe, reliable, and human-aligned AI systems.
 
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=koiQmY8AAAAJ)
+
+# 🌙 Something To Say
+
+I am a science student who loves Chinese, its music, its silences, and the way a single phrase can hold both moonlight and measurement. I hope to be a researcher with an interesting soul, one who does not merely ask whether to be, but tries to become more awake, more useful, and more humane.
+
+There are more things in intelligence than our present theories can name. So I want to do research I love, and research that is worth loving: to take arms against confusion, to seek value amid uncertainty, and to use the rough magic of machines gently, so that the work may leave the world a little safer, clearer, and kinder.
 
 # 🔥 News
 - *2026.06*: We released SafeMCP, an ACL 2026 Main Conference paper on LLM agent defense.
@@ -46,7 +52,7 @@ I work with the PKU Alignment Group on building safe, reliable, and human-aligne
   Boyuan Chen, Sitong Fang, Jiaming Ji, Yanxu Zhu, Pengcheng Wen, Jinzhou Wu, Yingshui Tan, Boren Zheng, Mengying Yuan, Wenqi Chen, Donghai Hong, Alex Qiu, Xin Chen, Jiayi Zhou, Kaile Wang, Juntao Dai, Borong Zhang, **Tianzhuo Yang**, et al. **arXiv 2025**.
 
 - [A Game-Theoretic Negotiation Framework for Cross-Cultural Consensus in LLMs](https://arxiv.org/abs/2506.13245)<br>
-  Guoxi Zhang, Jiawei Chen, **Tianzhuo Yang**, Jiaming Ji, Yaodong Yang, Juntao Dai. **arXiv 2025**.
+  Guoxi Zhang, Jiawei Chen, **Tianzhuo Yang**, Jiaming Ji, Yaodong Yang, Juntao Dai. **ACL 2026 Main Conference, Oral Presentation**.
 
 # 📖 Educations
 - *2024 - Present*, Undergraduate student, Yuanpei College, Peking University.

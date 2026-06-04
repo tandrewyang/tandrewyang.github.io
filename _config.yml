@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tianzhuo Yang"
-description              : "I am an undergraduate student at Yuanpei College, Peking University. My research interests include AI alignment, value alignment, reinforcement learning, and natural language processing."
+description              : "I am an undergraduate student at Yuanpei College, Peking University. My research interests include AI alignment, value alignment, agent safety, reinforcement learning, and natural language processing."
 repository               : "tandrewyang/tandrewyang.github.io"
 google_scholar_stats_use_cdn : false
 
