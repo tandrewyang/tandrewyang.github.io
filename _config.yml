@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tianzhuo Yang"
-description              : "I am a PhD student studying in Yuanpei College, Peking University. My research interests include alignment (especially value alignment) and natural language processing."
+description              : "I am an undergraduate student at Yuanpei College, Peking University. My research interests include AI alignment, value alignment, reinforcement learning, and natural language processing."
 repository               : "tandrewyang/tandrewyang.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tianzhuo Yang"
   avatar           : "images/头像.png"
-  bio              : "Peking University"
+  bio              : "Undergraduate, Peking University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : ""
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=koiQmY8AAAAJ"
   email            : "2400017401@stu.pku.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "tandrewyang"
   google_plus      :
   keybase          :
   instagram        :
