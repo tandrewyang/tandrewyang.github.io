@@ -29,7 +29,10 @@ I am a science student who loves Chinese, its music, its silences, and the way a
 
 There are more things in intelligence than our present theories can name. So I want to do research I love, and research that is worth loving: to take arms against confusion, to seek value amid uncertainty, and to use the rough magic of machines gently, so that the work may leave the world a little safer, clearer, and kinder.
 
+愿我像那个渡河的人，在长夜与激流之间，肩上仍负着沉重而明亮的孩子，一步一步走向彼岸。若我在疲惫中问：你是谁？愿答案在心里响起：你是将要重新诞生的明日。于是我也愿为新的战斗再生，在下一道晨光里继续做自己相信的研究，带着爱、自由、价值与不屈的灵魂，向前。
+
 # 🔥 News
+- *2026.06*: Our paper A Game-Theoretic Negotiation Framework for Cross-Cultural Consensus in LLMs was selected as an ACL 2026 Main Conference Oral Presentation.
 - *2026.06*: We released SafeMCP, an ACL 2026 Main Conference paper on LLM agent defense.
 - *2026.05*: We released MiraBench, a benchmark for action-conditioned reliability in robotic world models.
 - *2026.03*: We released VISA and Stable Reasoning, Unstable Responses on arXiv.
@@ -56,3 +59,6 @@ There are more things in intelligence than our present theories can name. So I w
 
 # 📖 Educations
 - *2024 - Present*, Undergraduate student, Yuanpei College, Peking University.
+
+# 💻 Internships
+- Research Intern, Beijing Academy of Artificial Intelligence (BAAI / 智源研究院), Beijing, China.
