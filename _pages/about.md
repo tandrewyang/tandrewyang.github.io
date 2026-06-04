@@ -29,7 +29,7 @@ I am a science student who loves Chinese, its music, its silences, and the way a
 
 There are more things in intelligence than our present theories can name. So I want to do research I love, and research that is worth loving: to take arms against confusion, to seek value amid uncertainty, and to use the rough magic of machines gently, so that the work may leave the world a little safer, clearer, and kinder.
 
-I often, almost naively, imagine myself as the one crossing the river: between the long night and the rushing current, carrying on my shoulders a child both heavy and bright, step by step toward the farther shore. When I am tired and ask, "Who are you?", I hope the answer rises within me: the tomorrow that will be born again. So I keep being reborn for the next battle, walking into the next morning to do the research I believe in, with love, freedom, value, and an unyielding soul.
+I often, almost naively, imagine myself inside the closing scene of Romain Rolland's [Jean-Christophe](https://fr.wikisource.org/wiki/Page:Rolland_-_Jean-Christophe,_tome_10.djvu/332): crossing the river between the long night and the rushing current, carrying on my shoulders a child both heavy and bright, step by step toward the farther shore. And when Christophe asks, "Enfant, qui donc es-tu?", the Child answers, "Je suis le jour qui va naître." I want to keep walking toward that newborn tomorrow, reborn for the next battle, doing the research I believe in with love, freedom, value, and an unyielding soul.
 
 # 🔥 News
 - *2026.06*: Our paper A Game-Theoretic Negotiation Framework for Cross-Cultural Consensus in LLMs was selected as an ACL 2026 Main Conference Oral Presentation.
