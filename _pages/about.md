@@ -33,8 +33,8 @@ I often, almost naively, imagine myself inside the closing scene of Romain Rolla
 
 # 🔥 News
 - *2026.08*: Stable Reasoning, Unstable Responses and VISA were accepted to the EMNLP 2026 Main Conference.
-- *2026.06*: Our paper A Game-Theoretic Negotiation Framework for Cross-Cultural Consensus in LLMs was selected as an ACL 2026 Main Conference Oral Presentation.
-- *2026.06*: We released SafeMCP, an ACL 2026 Main Conference paper on LLM agent defense.
+- *2026.06*: Our paper A Game-Theoretic Negotiation Framework for Cross-Cultural Consensus in LLMs was accepted to the ACL 2026 Main Conference as an Oral Presentation.
+- *2026.06*: Our paper SafeMCP was accepted to the ACL 2026 Main Conference.
 - *2026.05*: We released MiraBench, a benchmark for action-conditioned reliability in robotic world models.
 - *2026.03*: We released VISA and Stable Reasoning, Unstable Responses on arXiv.
 
