@@ -72,4 +72,4 @@ I often, almost naively, imagine myself inside the closing scene of Romain Rolla
 - *2024 - Present*, Undergraduate student, Yuanpei College, Peking University.
 
 # 💻 Internships
-- Research Intern, Beijing Academy of Artificial Intelligence (BAAI / 智源研究院), Beijing, China.
+- Research Intern, PKU Alignment and Interaction Research Lab (PAIR Lab), Beijing Academy of Artificial Intelligence (BAAI / 智源研究院), Beijing, China.
