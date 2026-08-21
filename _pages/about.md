@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student at Yuanpei College, Peking University. My research interests include AI alignment, value alignment, agent safety, reinforcement learning, and natural language processing.
+I am an undergraduate student at Yuanpei College, Peking University. My research interests include AI alignment, value alignment, agent safety, reinforcement learning, robotic world models, and natural language processing.
 
 I work with the PKU Alignment Group on building safe, reliable, and human-aligned AI systems.
 
