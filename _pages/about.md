@@ -64,6 +64,7 @@ I often, almost naively, imagine myself inside the closing scene of Romain Rolla
 - Second Prize, National College Student Mathematics Competition (全国大学生数学竞赛二等奖).
 - Second Prize, National English Competition for College Students (全国大学生英语竞赛二等奖).
 - Peking University Boya Scholarship (北京大学博雅奖学金).
+- Dean's Scholarship, Institute for Artificial Intelligence, Peking University (北京大学人工智能研究院院长奖学金).
 - Peking University Social Work Award (北京大学社会工作奖).
 - Peking University Freshman Scholarship, First Prize (北京大学新生奖学金一等奖).
 - Peking University Second-Class Scholarship (北京大学二等奖学金).
