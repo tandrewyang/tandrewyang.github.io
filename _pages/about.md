@@ -32,6 +32,7 @@ There are more things in intelligence than our present theories can name. So I w
 I often, almost naively, imagine myself inside the closing scene of Romain Rolland's [Jean-Christophe](https://fr.wikisource.org/wiki/Page:Rolland_-_Jean-Christophe,_tome_10.djvu/332): crossing the river between the long night and the rushing current, carrying on my shoulders a child both heavy and bright, step by step toward the farther shore. And when Christophe asks, "Enfant, qui donc es-tu?", the Child answers, "Je suis le jour qui va naître." I want to keep walking toward that newborn tomorrow, reborn for the next battle, doing the research I believe in with love, freedom, value, and an unyielding soul.
 
 # 🔥 News
+- *2026.08*: Stable Reasoning, Unstable Responses and VISA were accepted to the EMNLP 2026 Main Conference.
 - *2026.06*: Our paper A Game-Theoretic Negotiation Framework for Cross-Cultural Consensus in LLMs was selected as an ACL 2026 Main Conference Oral Presentation.
 - *2026.06*: We released SafeMCP, an ACL 2026 Main Conference paper on LLM agent defense.
 - *2026.05*: We released MiraBench, a benchmark for action-conditioned reliability in robotic world models.
@@ -46,16 +47,26 @@ I often, almost naively, imagine myself inside the closing scene of Romain Rolla
   **Tianzhuo Yang**, Zihan Shen, Zirui Mi, Zhaoyi Zhang, Jiayi Zhou, Jiaming Ji, Juntao Dai, Jiawei Chen, Boyuan Chen, Yaodong Yang. **arXiv 2026**.
 
 - [Stable Reasoning, Unstable Responses: Mitigating LLM Deception via Stability Asymmetry](https://arxiv.org/abs/2603.26846)<br>
-  Guoxi Zhang, Jiawei Chen, **Tianzhuo Yang**, Lang Qin, Juntao Dai, Yaodong Yang, Jingwei Yi. **arXiv 2026**.
+  Guoxi Zhang, Jiawei Chen, **Tianzhuo Yang**, Lang Qin, Juntao Dai, Yaodong Yang, Jingwei Yi. **EMNLP 2026 Main Conference**.
 
 - [VISA: Value Injection via Shielded Adaptation for Personalized LLM Alignment](https://arxiv.org/abs/2603.04822)<br>
-  Jiawei Chen, **Tianzhuo Yang**, Guoxi Zhang, Jiaming Ji, Yaodong Yang, Juntao Dai. **arXiv 2026**.
+  Jiawei Chen, **Tianzhuo Yang**, Guoxi Zhang, Jiaming Ji, Yaodong Yang, Juntao Dai. **EMNLP 2026 Main Conference**.
 
 - [AI Deception: Risks, Dynamics, and Controls](https://arxiv.org/abs/2511.22619)<br>
   Boyuan Chen, Sitong Fang, Jiaming Ji, Yanxu Zhu, Pengcheng Wen, Jinzhou Wu, Yingshui Tan, Boren Zheng, Mengying Yuan, Wenqi Chen, Donghai Hong, Alex Qiu, Xin Chen, Jiayi Zhou, Kaile Wang, Juntao Dai, Borong Zhang, **Tianzhuo Yang**, et al. **arXiv 2025**.
 
 - [A Game-Theoretic Negotiation Framework for Cross-Cultural Consensus in LLMs](https://arxiv.org/abs/2506.13245)<br>
   Guoxi Zhang, Jiawei Chen, **Tianzhuo Yang**, Jiaming Ji, Yaodong Yang, Juntao Dai. **ACL 2026 Main Conference, Oral Presentation**.
+
+# 🎖 Honors and Awards
+- SenseTime Scholarship (商汤奖学金; 30 recipients nationwide).
+- Soong Ching Ling "Future Scholarship" (宋庆龄"未来助学金").
+- Second Prize, National College Student Mathematics Competition (全国大学生数学竞赛二等奖).
+- Second Prize, National English Competition for College Students (全国大学生英语竞赛二等奖).
+- Peking University Boya Scholarship (北京大学博雅奖学金; one recipient per province/municipality).
+- Peking University Social Work Award (北京大学社会工作奖).
+- Peking University Freshman Scholarship, First Prize (北京大学新生奖学金一等奖).
+- Peking University Second-Class Scholarship (北京大学二等奖学金).
 
 # 📖 Educations
 - *2024 - Present*, Undergraduate student, Yuanpei College, Peking University.
