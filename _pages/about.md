@@ -62,7 +62,7 @@ I often, almost naively, imagine myself inside the closing scene of Romain Rolla
 # 🎖 Honors and Awards
 - SenseTime Scholarship (商汤奖学金; 30 recipients nationwide).
 - Soong Ching Ling “Future Scholarship” (宋庆龄“未来助学金”).
-- Huawei Spark Award (华为火花奖).
+- Huawei Spark Award (华为火花奖; Team Member).
 - Second Prize, National College Student Mathematics Competition (全国大学生数学竞赛二等奖).
 - Second Prize, National English Competition for College Students (全国大学生英语竞赛二等奖).
 - Peking University Boya Scholarship (北京大学博雅奖学金).
