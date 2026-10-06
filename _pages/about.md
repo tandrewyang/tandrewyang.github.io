@@ -32,6 +32,7 @@ There are more things in intelligence than our present theories can name. So I w
 I often, almost naively, imagine myself inside the closing scene of Romain Rolland's [Jean-Christophe](https://fr.wikisource.org/wiki/Page:Rolland_-_Jean-Christophe,_tome_10.djvu/332): crossing the river between the long night and the rushing current, carrying on my shoulders a child both heavy and bright, step by step toward the farther shore. And when Christophe asks, "Enfant, qui donc es-tu?", the Child answers, "Je suis le jour qui va naître." I want to keep walking toward that newborn tomorrow, reborn for the next battle, doing the research I believe in with love, freedom, value, and an unyielding soul.
 
 # 🔥 News
+- *2026.09*: We released AgentBoundary, a counterfactual evaluation framework for safety in tool-using LLM agents, on arXiv.
 - *2026.08*: Our paper Stable Reasoning, Unstable Responses was accepted to the <span style="color:#c00000; font-weight:700;">EMNLP 2026 Main Conference</span>.
 - *2026.08*: Our paper VISA was accepted to the <span style="color:#c00000; font-weight:700;">EMNLP 2026 Main Conference</span>.
 - *2026.06*: Our paper A Game-Theoretic Negotiation Framework for Cross-Cultural Consensus in LLMs was accepted to the <span style="color:#c00000; font-weight:700;">ACL 2026 Main Conference</span> as an Oral Presentation.
@@ -40,6 +41,9 @@ I often, almost naively, imagine myself inside the closing scene of Romain Rolla
 - *2026.03*: We released VISA and Stable Reasoning, Unstable Responses on arXiv.
 
 # 📝 Publications 
+
+- [AgentBoundary: Counterfactual Evaluation of Safety in Tool-Using LLM Agents](https://arxiv.org/abs/2609.33658)<br>
+  **Tianzhuo Yang**, Zirui Mi, Yantao Huang, Guoxi Zhang, Jiawei Chen, Yaodong Yang, Jingwei Yi. **arXiv 2026**.
 
 - [SafeMCP: Proactive Power Regulation for LLM Agent Defense via Environment-Grounded Look-Ahead Reasoning](https://arxiv.org/abs/2606.01991)<br>
   Lichao Wang, Zhaoxing Ren, **Tianzhuo Yang**, Jiaming Ji, Chi Harold Liu, Yaodong Yang, Juntao Dai. <span style="color:#c00000; font-weight:700;">ACL 2026 Main Conference</span>.
