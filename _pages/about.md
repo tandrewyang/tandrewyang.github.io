@@ -32,6 +32,7 @@ There are more things in intelligence than our present theories can name. So I w
 I often, almost naively, imagine myself inside the closing scene of Romain Rolland's [Jean-Christophe](https://fr.wikisource.org/wiki/Page:Rolland_-_Jean-Christophe,_tome_10.djvu/332): crossing the river between the long night and the rushing current, carrying on my shoulders a child both heavy and bright, step by step toward the farther shore. And when Christophe asks, "Enfant, qui donc es-tu?", the Child answers, "Je suis le jour qui va naître." I want to keep walking toward that newborn tomorrow, reborn for the next battle, doing the research I believe in with love, freedom, value, and an unyielding soul.
 
 # 🔥 News
+- *2026.10*: We released DANGERLENS, an internal representation audit for hazardous concept accessibility after safety alignment, on arXiv.
 - *2026.09*: We released AgentBoundary, a counterfactual evaluation framework for safety in tool-using LLM agents, on arXiv.
 - *2026.08*: Our paper Stable Reasoning, Unstable Responses was accepted to the <span style="color:#c00000; font-weight:700;">EMNLP 2026 Main Conference</span>.
 - *2026.08*: Our paper VISA was accepted to the <span style="color:#c00000; font-weight:700;">EMNLP 2026 Main Conference</span>.
@@ -42,26 +43,29 @@ I often, almost naively, imagine myself inside the closing scene of Romain Rolla
 
 # 📝 Publications 
 
+- [DANGERLENS: Probing Dangerous Representations Hidden by Safety Alignment](https://arxiv.org/abs/2610.19365)<br>
+  <strong style="font-weight:800;">Tianzhuo Yang</strong>, Shaoheng Yan, Lin Lu, Jiawei Chen, Kaile Wang, Fanyu Meng, Minglu Liu, Yaodong Yang. **arXiv 2026**.
+
 - [AgentBoundary: Counterfactual Evaluation of Safety in Tool-Using LLM Agents](https://arxiv.org/abs/2609.33658)<br>
-  **Tianzhuo Yang**, Zirui Mi, Yantao Huang, Guoxi Zhang, Jiawei Chen, Yaodong Yang, Jingwei Yi. **arXiv 2026**.
+  <strong style="font-weight:800;">Tianzhuo Yang</strong>, Zirui Mi, Yantao Huang, Guoxi Zhang, Jiawei Chen, Yaodong Yang, Jingwei Yi. **arXiv 2026**.
 
 - [SafeMCP: Proactive Power Regulation for LLM Agent Defense via Environment-Grounded Look-Ahead Reasoning](https://arxiv.org/abs/2606.01991)<br>
-  Lichao Wang, Zhaoxing Ren, **Tianzhuo Yang**, Jiaming Ji, Chi Harold Liu, Yaodong Yang, Juntao Dai. <span style="color:#c00000; font-weight:700;">ACL 2026 Main Conference</span>.
+  Lichao Wang, Zhaoxing Ren, <strong style="font-weight:800;">Tianzhuo Yang</strong>, Jiaming Ji, Chi Harold Liu, Yaodong Yang, Juntao Dai. <span style="color:#c00000; font-weight:700;">ACL 2026 Main Conference</span>.
 
 - [MiraBench: Evaluating Action-Conditioned Reliability in Robotic World Models](https://arxiv.org/abs/2605.29360)<br>
-  **Tianzhuo Yang**, Zihan Shen, Zirui Mi, Zhaoyi Zhang, Jiayi Zhou, Jiaming Ji, Juntao Dai, Jiawei Chen, Boyuan Chen, Yaodong Yang. **arXiv 2026**.
+  <strong style="font-weight:800;">Tianzhuo Yang</strong>, Zihan Shen, Zirui Mi, Zhaoyi Zhang, Jiayi Zhou, Jiaming Ji, Juntao Dai, Jiawei Chen, Boyuan Chen, Yaodong Yang. **arXiv 2026**.
 
 - [Stable Reasoning, Unstable Responses: Mitigating LLM Deception via Stability Asymmetry](https://arxiv.org/abs/2603.26846)<br>
-  Guoxi Zhang, Jiawei Chen, **Tianzhuo Yang**, Lang Qin, Juntao Dai, Yaodong Yang, Jingwei Yi. <span style="color:#c00000; font-weight:700;">EMNLP 2026 Main Conference</span>.
+  Guoxi Zhang, Jiawei Chen, <strong style="font-weight:800;">Tianzhuo Yang</strong>, Lang Qin, Juntao Dai, Yaodong Yang, Jingwei Yi. <span style="color:#c00000; font-weight:700;">EMNLP 2026 Main Conference</span>.
 
 - [VISA: Value Injection via Shielded Adaptation for Personalized LLM Alignment](https://arxiv.org/abs/2603.04822)<br>
-  Jiawei Chen, **Tianzhuo Yang**, Guoxi Zhang, Jiaming Ji, Yaodong Yang, Juntao Dai. <span style="color:#c00000; font-weight:700;">EMNLP 2026 Main Conference</span>.
+  Jiawei Chen, <strong style="font-weight:800;">Tianzhuo Yang</strong>, Guoxi Zhang, Jiaming Ji, Yaodong Yang, Juntao Dai. <span style="color:#c00000; font-weight:700;">EMNLP 2026 Main Conference</span>.
 
 - [AI Deception: Risks, Dynamics, and Controls](https://arxiv.org/abs/2511.22619)<br>
-  Boyuan Chen, Sitong Fang, Jiaming Ji, Yanxu Zhu, Pengcheng Wen, Jinzhou Wu, Yingshui Tan, Boren Zheng, Mengying Yuan, Wenqi Chen, Donghai Hong, Alex Qiu, Xin Chen, Jiayi Zhou, Kaile Wang, Juntao Dai, Borong Zhang, **Tianzhuo Yang**, et al. **arXiv 2025**.
+  Boyuan Chen, Sitong Fang, Jiaming Ji, Yanxu Zhu, Pengcheng Wen, Jinzhou Wu, Yingshui Tan, Boren Zheng, Mengying Yuan, Wenqi Chen, Donghai Hong, Alex Qiu, Xin Chen, Jiayi Zhou, Kaile Wang, Juntao Dai, Borong Zhang, <strong style="font-weight:800;">Tianzhuo Yang</strong>, et al. **arXiv 2025**.
 
 - [A Game-Theoretic Negotiation Framework for Cross-Cultural Consensus in LLMs](https://arxiv.org/abs/2506.13245)<br>
-  Guoxi Zhang, Jiawei Chen, **Tianzhuo Yang**, Jiaming Ji, Yaodong Yang, Juntao Dai. <span style="color:#c00000; font-weight:700;">ACL 2026 Main Conference, Oral Presentation</span>.
+  Guoxi Zhang, Jiawei Chen, <strong style="font-weight:800;">Tianzhuo Yang</strong>, Jiaming Ji, Yaodong Yang, Juntao Dai. <span style="color:#c00000; font-weight:700;">ACL 2026 Main Conference, Oral Presentation</span>.
 
 # 🎖 Honors and Awards
 - SenseTime Scholarship (商汤奖学金; 30 recipients nationwide).
