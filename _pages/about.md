@@ -32,14 +32,14 @@ There are more things in intelligence than our present theories can name. So I w
 I often, almost naively, imagine myself inside the closing scene of Romain Rolland's [Jean-Christophe](https://fr.wikisource.org/wiki/Page:Rolland_-_Jean-Christophe,_tome_10.djvu/332): crossing the river between the long night and the rushing current, carrying on my shoulders a child both heavy and bright, step by step toward the farther shore. And when Christophe asks, "Enfant, qui donc es-tu?", the Child answers, "Je suis le jour qui va naître." I want to keep walking toward that newborn tomorrow, reborn for the next battle, doing the research I believe in with love, freedom, value, and an unyielding soul.
 
 # 🔥 News
-- *2026.10*: We released DANGERLENS, an internal representation audit for hazardous concept accessibility after safety alignment, on arXiv.
-- *2026.09*: We released AgentBoundary, a counterfactual evaluation framework for safety in tool-using LLM agents, on arXiv.
-- *2026.08*: Our paper Stable Reasoning, Unstable Responses was accepted to the <span style="color:#c00000; font-weight:700;">EMNLP 2026 Main Conference</span>.
-- *2026.08*: Our paper VISA was accepted to the <span style="color:#c00000; font-weight:700;">EMNLP 2026 Main Conference</span>.
-- *2026.06*: Our paper A Game-Theoretic Negotiation Framework for Cross-Cultural Consensus in LLMs was accepted to the <span style="color:#c00000; font-weight:700;">ACL 2026 Main Conference</span> as an Oral Presentation.
-- *2026.06*: Our paper SafeMCP was accepted to the <span style="color:#c00000; font-weight:700;">ACL 2026 Main Conference</span>.
-- *2026.05*: We released MiraBench, a benchmark for action-conditioned reliability in robotic world models.
-- *2026.03*: We released VISA and Stable Reasoning, Unstable Responses on arXiv.
+- *2026.10*: We released <span style="color:#0066cc; font-weight:700;">DANGERLENS: Probing Dangerous Representations Hidden by Safety Alignment</span>, an internal representation audit for hazardous concept accessibility after safety alignment, on arXiv.
+- *2026.09*: We released <span style="color:#0066cc; font-weight:700;">AgentBoundary: Counterfactual Evaluation of Safety in Tool-Using LLM Agents</span>, a counterfactual evaluation framework for safety in tool-using LLM agents, on arXiv.
+- *2026.08*: Our paper <span style="color:#0066cc; font-weight:700;">Stable Reasoning, Unstable Responses: Mitigating LLM Deception via Stability Asymmetry</span> was accepted to the <span style="color:#c00000; font-weight:700;">EMNLP 2026 Main Conference</span>.
+- *2026.08*: Our paper <span style="color:#0066cc; font-weight:700;">VISA: Value Injection via Shielded Adaptation for Personalized LLM Alignment</span> was accepted to the <span style="color:#c00000; font-weight:700;">EMNLP 2026 Main Conference</span>.
+- *2026.06*: Our paper <span style="color:#0066cc; font-weight:700;">A Game-Theoretic Negotiation Framework for Cross-Cultural Consensus in LLMs</span> was accepted to the <span style="color:#c00000; font-weight:700;">ACL 2026 Main Conference</span> as an Oral Presentation.
+- *2026.06*: Our paper <span style="color:#0066cc; font-weight:700;">SafeMCP: Proactive Power Regulation for LLM Agent Defense via Environment-Grounded Look-Ahead Reasoning</span> was accepted to the <span style="color:#c00000; font-weight:700;">ACL 2026 Main Conference</span>.
+- *2026.05*: We released <span style="color:#0066cc; font-weight:700;">MiraBench: Evaluating Action-Conditioned Reliability in Robotic World Models</span>, a benchmark for action-conditioned reliability in robotic world models.
+- *2026.03*: We released <span style="color:#0066cc; font-weight:700;">VISA: Value Injection via Shielded Adaptation for Personalized LLM Alignment</span> and <span style="color:#0066cc; font-weight:700;">Stable Reasoning, Unstable Responses: Mitigating LLM Deception via Stability Asymmetry</span> on arXiv.
 
 # 📝 Publications 
 
